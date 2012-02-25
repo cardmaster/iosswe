@@ -1,0 +1,12 @@
+This project is open source part of ios app 'starvision'
+
+The swiss ephe part belongs to its owner
+But I've some minor change based on it to make it coop with cocoa better.
+
+This project is under GPLv2, but you can embbed my code, (you have to contact swiss ephe owner for usage information of their code) into your IOS app freely, without expose all your source.
+
+Enjoy, if any questions, contact leafjohn@gmail.com
+
+Externals:
+Swiss Ephe: http://www.astro.com/swisseph/
+
